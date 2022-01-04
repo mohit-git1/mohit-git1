@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mohit-git1
+- 👀 I’m interested in contributing to open source development and innovative ideas. 
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me twitter https://twitter.com/mohit1twt
